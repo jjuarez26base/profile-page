@@ -1,0 +1,27 @@
+
+h2 {color:blueviolet;}
+
+.aqua_background {background-color:aqua;}
+
+#main_heading {color: green;
+font-size: 30px;}
+
+.popout_text {color:blue;
+font-size: 20px;}
+
+.small_size_increase {font-size: 16px;}
+
+.small_margin_increase {margin: 30px;}
+
+p {padding-left: 20px;}
+
+.orange_border {border-color:darkorange;
+border-radius: 10px;
+border-width: 5px;
+border-style:solid;}
+
+#purple_background {background-color:blueviolet;}
+
+h1 {font-family: Georgia}
+
+p {font-family:'Lucida Sans Unicode';}
