@@ -1,8 +1,8 @@
-.header2-style {color:blueviolet;}
+.header2-style {color: darkblue;}
 
 .aqua_background {background-color:aqua;}
 
-#main_heading {color: green;
+#main_heading {color: blueviolet;
 font-size: 30px;
 font-family: Georgia, 'Times New Roman', Times, serif;}
 
@@ -13,7 +13,7 @@ font-size: 20px;}
 
 .small_margin_increase {margin: 30px;}
 
-.paragraph-style {padding-left: 20px;
+.paragraph-style, .popout_text {padding-left: 20px;
 font-family:'Lucida Sans Unicode';}
 
 .orange_border {border-color:darkorange;
@@ -24,3 +24,13 @@ border-style:solid;}
 #purple_background {background-color:blueviolet;}
 
 #ps4, #tamale, #books, #frost, #sekiro, #elden {width: 200px;}
+
+.nav-links-flex {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;}
+
+#Nav-main-title { display: flex;
+justify-content: center;}
+
+.gallery-flex-container {display: flex;
+flex-direction: row;}
