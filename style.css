@@ -1,10 +1,10 @@
-
-h2 {color:blueviolet;}
+.header2-style {color:blueviolet;}
 
 .aqua_background {background-color:aqua;}
 
 #main_heading {color: green;
-font-size: 30px;}
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
 
 .popout_text {color:blue;
 font-size: 20px;}
@@ -13,7 +13,8 @@ font-size: 20px;}
 
 .small_margin_increase {margin: 30px;}
 
-p {padding-left: 20px;}
+.paragraph-style {padding-left: 20px;
+font-family:'Lucida Sans Unicode';}
 
 .orange_border {border-color:darkorange;
 border-radius: 10px;
@@ -22,6 +23,4 @@ border-style:solid;}
 
 #purple_background {background-color:blueviolet;}
 
-h1 {font-family: Georgia}
-
-p {font-family:'Lucida Sans Unicode';}
+#ps4, #tamale, #books, #frost, #sekiro, #elden {width: 200px;}
