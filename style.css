@@ -34,3 +34,7 @@ justify-content: center;}
 
 .gallery-flex-container {display: flex;
 flex-direction: row;}
+
+#gallery, #Photos-of-Favorite-Video-Games {padding-left: 20px;}
+
+.div-hobby-padding {width: 30%;}
