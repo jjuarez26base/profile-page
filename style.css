@@ -39,12 +39,11 @@ flex-direction: row;}
 
 .div-hobby-padding {width: 30%;}
 
-@media (max-width: 600px) {#main_heading {color: blueviolet;
-font-size: 25px;
-font-family: Georgia, 'Times New Roman', Times, serif;}
+.game-div-style {padding-left: 50px;}
 
-.popout_text {color:blue;
-font-size: 17px;}
+@media (max-width: 600px) {#main_heading {font-size: 25px;}
+
+.popout_text {font-size: 17px;}
 
 .small_size_increase {font-size: 14px;}
 
@@ -69,3 +68,33 @@ justify-content: center;
 flex-direction: column;}
 
 #tamale, #ps4, #books, #frost, #sekiro, #elden {width: 100px;}}
+
+@media (min-width: 601px) and (max-width: 700px) {#main_heading {font-size: 25px;}
+
+.popout_text {font-size: 19px;}
+
+.small_size_increase {font-size: 16px;}
+
+.small_margin_increase {margin: 20px;}
+
+.paragraph-style {font-size: 16px;}
+
+.header2-style {font-size: 22px;}
+
+.orange_border {width: 500px;}
+
+.th-style {font-size: 15px;}
+
+.li-style {font-size: 16px;}
+
+.nav-links-flex {flex-direction: column;
+justify-content: space-evenly;
+padding-left: 20px;}
+
+#Nav-main-title {display: flex;
+justify-content: center;
+flex-direction: column;}
+
+#tamale, #ps4, #books, #frost, #sekiro, #elden {width: 125px;}}
+
+@media (min-width: 701px) and (max-width: 800px) {#tamale, #ps4, #books, #frost, #sekiro, #elden {width: 150px;}}
