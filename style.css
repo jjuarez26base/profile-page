@@ -38,3 +38,34 @@ flex-direction: row;}
 #gallery, #Photos-of-Favorite-Video-Games {padding-left: 20px;}
 
 .div-hobby-padding {width: 30%;}
+
+@media (max-width: 600px) {#main_heading {color: blueviolet;
+font-size: 25px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.popout_text {color:blue;
+font-size: 17px;}
+
+.small_size_increase {font-size: 14px;}
+
+.small_margin_increase {margin: 20px;}
+
+.paragraph-style {font-size: 14px;}
+
+.header2-style {font-size: 20px;}
+
+.orange_border {width: 450px;}
+
+.th-style {font-size: 13px;}
+
+.li-style {font-size: 14px;}
+
+.nav-links-flex {flex-direction: column;
+justify-content: space-evenly;
+padding-left: 20px;}
+
+#Nav-main-title {display: flex;
+justify-content: center;
+flex-direction: column;}
+
+#tamale, #ps4, #books, #frost, #sekiro, #elden {width: 100px;}}
